@@ -14,22 +14,22 @@ Bot = Client(
 )
 
 
-START_TEXT = """Hello {},
+START_TEXT = """Hello Darling {},
 I am a simple calculator telegram bot. \
 Send me /calculator for inline button keyboard or send as text. \
 You can also use me in inline.
 
-Made by @FayasNoushad"""
+Developed by @ MathsHater"""
 
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/FayasNoushad')
+            InlineKeyboardButton('⚙Updates⚙', url='https://telegram.me/z_harbour')
         ]
     ]
 )
 
-CALCULATE_TEXT = "Made by @FayasNoushad"
+CALCULATE_TEXT = "update @mdisk_bots"
 
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
     [
