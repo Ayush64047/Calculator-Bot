@@ -14,10 +14,10 @@ Bot = Client(
 )
 
 
-START_TEXT = """Hello Darling {},
-I am a simple calculator telegram bot. \
-Send me /calculator for inline button keyboard or send as text. \
-You can also use me in inline.
+START_TEXT = """Yo Dear {} 👨‍🎤
+I am a simple calculator telegram bot. 
+I Can Solve Simple Calculations via my Brian that's C++ program !
+ Just Type This Format 2/2,2*2,3+3,3-3 For My Output !! 
 
 Developed by @ MathsHater"""
 
