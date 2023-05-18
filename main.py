@@ -29,7 +29,7 @@ START_BUTTONS = InlineKeyboardMarkup(
     ]
 )
 
-CALCULATE_TEXT = "update @mdisk_bots"
+CALCULATE_TEXT = ""
 
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
     [
