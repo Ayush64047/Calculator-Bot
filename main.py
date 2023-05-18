@@ -29,7 +29,7 @@ START_BUTTONS = InlineKeyboardMarkup(
     ]
 )
 
-CALCULATE_TEXT = "0"
+CALCULATE_TEXT = ""
 
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
     [
