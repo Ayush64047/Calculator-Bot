@@ -16,7 +16,7 @@ Bot = Client(
 
 START_TEXT = """Yo Dear {} 👨‍🎤
 I am a simple calculator telegram bot. 
-I Can Solve Simple Calculations via my Brian that's C++ program !
+I Can Solve Simple Calculations via my Brain that's C++ program !
  Just Type This Format 2/2,2*2,3+3,3-3 For My Output !! 
 
 Developed by @ MathsHater"""
